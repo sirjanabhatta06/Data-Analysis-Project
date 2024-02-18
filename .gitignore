@@ -1,0 +1,12 @@
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Compiled Python files
+*.pyc
+
+# Generated HTML or PDF files
+*.html
+*.pdf
+
+# Virtual environment
+venv/
