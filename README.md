@@ -17,11 +17,11 @@ The housing data is from https://www.kaggle.com/datasets/utkarshx27/factors-infl
 
 ## Supply File Description  
 
-Column	       |      Description
-DATE	       |       Date
-PERMIT	  | New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units (Thousands of Units, Seasonally Adjusted Annual Rate)
-MSACSR	            |        Monthly Supply of New Houses in the United States (Seasonally Adjusted)
-TLRESCONS	        |    Total Construction Spending: Residential in the United States (Millions of Dollars, Seasonally Adjusted Annual Rate)
-EVACANTUSQ176N	    |    Housing Inventory Estimate: Vacant Housing Units in the United States (Thousands of Units, Not Seasonally Adjusted)
-CSUSHPISA	        |  S&P/Case-Shiller U.S. National Home Price Index (Index Jan 2000=100, Seasonally Adjusted)
+Column	       |      Description   
+DATE	       |       Date 
+PERMIT   | New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units (Thousands of Units, Seasonally Adjusted Annual Rate)       
+MSACSR	            |        Monthly Supply of New Houses in the United States (Seasonally Adjusted)    
+TLRESCONS	        |    Total Construction Spending: Residential in the United States (Millions of Dollars, Seasonally Adjusted Annual Rate)   
+EVACANTUSQ176N	    |    Housing Inventory Estimate: Vacant Housing Units in the United States (Thousands of Units, Not Seasonally Adjusted)    
+CSUSHPISA	        |  S&P/Case-Shiller U.S. National Home Price Index (Index Jan 2000=100, Seasonally Adjusted)    
 
